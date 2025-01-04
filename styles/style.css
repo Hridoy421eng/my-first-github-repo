@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border: 50px;
+   
+}
+#me {
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border: 50px;
+    align-items: center;
+}
